@@ -1,2 +1,2 @@
 # Data-Science
-Ini adalah repositori yang berisikan projek-projek Data Sains dengan Python, R, dan lain-lainnya.
+Ini adalah repositori yang berisikan projek-projek Data Science dengan Python, R, dan lain-lainnya.
